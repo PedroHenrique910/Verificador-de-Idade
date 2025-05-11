@@ -2,4 +2,4 @@ O site informa a idade de uma pessoa com o seu ano de nascimento, e demonstra um
 
 
 
-![Captura de tela 2025-04-17 095931](https://github.com/user-attachments/assets/94711c26-be54-4bc7-93f3-92e1b347fad7)
+![image](https://github.com/user-attachments/assets/ac0ad05b-5888-4e4a-817c-3755e78fbe6c)
